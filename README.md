@@ -4,5 +4,6 @@
 Aviation - Commercial Pilots License
 
 ### Experiences
-Business Development @Fordonsbolaget
-Senior Controller @Autohero
+Business Development - Fordonsbolaget
+- Workshop Management
+- Cost savings
