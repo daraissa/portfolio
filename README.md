@@ -28,5 +28,7 @@ Aviation - Commercial Pilots License
 ### Google Advanced Data Analytics
 - Python
 - Principles of Machine Learning
-- 
+- Tableau
+
 ### Leadership Management - Chefsakademin
+
