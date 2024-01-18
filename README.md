@@ -30,5 +30,4 @@ Aviation - Commercial Pilots License
 - Principles of Machine Learning
 - Tableau
 
-### Leadership Management - Chefsakademin
 
