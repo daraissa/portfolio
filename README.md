@@ -1,4 +1,11 @@
-# Data Analyst
+# Short Introduction
+
+### Projects
+-[EDA in Python - Virtual Bookstore Project](https://www.kaggle.com/daraissa97/bookstore-eda)
+
+-[Salary Prediction in Python - Linear Regression Model](https://www.kaggle.com/daraissa97/salary-prediction-linear-regression)
+
+-[Sales Dashboard in Tableau (WIP)]
 
 ### Education
 Aviation - Commercial Pilots License
