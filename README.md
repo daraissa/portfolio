@@ -38,7 +38,7 @@ Aviation - Commercial Pilots License
 - Principles of Machine Learning
 - Tableau
 
-### [Leadership Development](TBA)
+### [Leadership Development](https://github.com/daraissa/portfolio/blob/main/images/Mgruppen.pdf)
 - Management
 - Adaptive Leadership
 - Communication
