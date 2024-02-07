@@ -7,6 +7,10 @@
 
 -[Sales Dashboard in Tableau (WIP)]
 
+### Courses and certificates
+-[Google Data Analytics](https://github.com/daraissa/portfolio/blob/main/images/Coursera%203LLY6FEKJ99F.pdf)
+-[Google Advanced Data Analytics](https://github.com/daraissa/portfolio/blob/main/images/Coursera%20FCHAR5UAN7DS.pdf)
+
 ### Education
 Aviation - Commercial Pilots License
 
