@@ -39,7 +39,7 @@ Aviation - Commercial Pilots License
 - Google Sheets/Excel
 - Tableau
 
-### Google Advanced Data Analytics
+### [Google Advanced Data Analytics](https://github.com/daraissa/portfolio/blob/main/images/Coursera%20FCHAR5UAN7DS.pdf)
 - Python
 - Principles of Machine Learning
 - Tableau
