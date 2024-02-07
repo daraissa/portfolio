@@ -7,12 +7,6 @@
 
 -[Sales Dashboard in Tableau (WIP)]
 
-### Courses and certificates
--[Google Data Analytics](https://github.com/daraissa/portfolio/blob/main/images/Coursera%203LLY6FEKJ99F.pdf)
-
--[Google Advanced Data Analytics](https://github.com/daraissa/portfolio/blob/main/images/Coursera%20FCHAR5UAN7DS.pdf)
-
--[Management and Leadership](blank)
 
 ### Education
 Aviation - Commercial Pilots License
@@ -33,7 +27,7 @@ Aviation - Commercial Pilots License
 - Inventory-turnover related projects
 
 ## Courses
-### Google Data Analytics 
+### [Google Data Analytics](https://github.com/daraissa/portfolio/blob/main/images/Coursera%203LLY6FEKJ99F.pdf)
 - SQL
 - R
 - Google Sheets/Excel
@@ -44,4 +38,10 @@ Aviation - Commercial Pilots License
 - Principles of Machine Learning
 - Tableau
 
+### [Leadership Development](TBA)
+- Management
+- Adaptive Leadership
+- Communication
+- Feedback
+- Conflict Management
 
